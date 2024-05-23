@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A760084-F390-4958-BDBF-36C5473F9C90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PIU_Project_With_Forms</RootNamespace>
+    <AssemblyName>PIU_Project_With_Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddByID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddByID.Designer.cs">
+      <DependentUpon>AddByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddCar.Designer.cs">
+      <DependentUpon>AddCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMotorcycle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddMotorcycle.Designer.cs">
+      <DependentUpon>AddMotorcycle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTruck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddTruck.Designer.cs">
+      <DependentUpon>AddTruck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyVehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuyVehicle.Designer.cs">
+      <DependentUpon>BuyVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteAtIndex.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DeleteAtIndex.Designer.cs">
+      <DependentUpon>DeleteAtIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterAdmin.Designer.cs">
+      <DependentUpon>RegisterAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterCustomer.Designer.cs">
+      <DependentUpon>RegisterCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UpdateCar.Designer.cs">
+      <DependentUpon>UpdateCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateMotorcycle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UpdateMotorcycle.Designer.cs">
+      <DependentUpon>UpdateMotorcycle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTruck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UpdateTruck.Designer.cs">
+      <DependentUpon>UpdateTruck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VehicleSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VehicleSelection.Designer.cs">
+      <DependentUpon>VehicleSelection.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddByID.resx">
+      <DependentUpon>AddByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCar.resx">
+      <DependentUpon>AddCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMotorcycle.resx">
+      <DependentUpon>AddMotorcycle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTruck.resx">
+      <DependentUpon>AddTruck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyVehicle.resx">
+      <DependentUpon>BuyVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm.resx">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteAtIndex.resx">
+      <DependentUpon>DeleteAtIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegisterAdmin.resx">
+      <DependentUpon>RegisterAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterCustomer.resx">
+      <DependentUpon>RegisterCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCar.resx">
+      <DependentUpon>UpdateCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateMotorcycle.resx">
+      <DependentUpon>UpdateMotorcycle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateTruck.resx">
+      <DependentUpon>UpdateTruck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VehicleSelection.resx">
+      <DependentUpon>VehicleSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Authentication\Authentication.csproj">
+      <Project>{4e2d04e1-cc80-44b8-98b1-2a8f5ffa6ac0}</Project>
+      <Name>Authentication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{8ce8c95a-6844-4e7e-8f25-0d4fd75a7d3f}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{2ce9679a-c19a-4acc-806b-ca740000411e}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

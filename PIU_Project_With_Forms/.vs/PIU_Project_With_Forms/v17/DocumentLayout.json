@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\addbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\addbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\addbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\addbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\updatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\updatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\updatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\updatecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\deleteatindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\deleteatindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\buyvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\buyvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|c:\\users\\n0_es\\onedrive\\desktop\\projects\\c#\\piu_project_with_forms\\piu_project_with_forms\\deleteatindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A760084-F390-4958-BDBF-36C5473F9C90}|PIU_Project_With_Forms\\PIU_Project_With_Forms.csproj|solutionrelative:piu_project_with_forms\\deleteatindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddByID.cs",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AddByID.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\AddByID.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AddByID.cs",
+              "RelativeToolTip": "PIU_Project_With_Forms\\AddByID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddByID.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AddByID.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\AddByID.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AddByID.cs [Design]",
+              "RelativeToolTip": "PIU_Project_With_Forms\\AddByID.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:58.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AdminForm.cs",
+              "RelativeToolTip": "PIU_Project_With_Forms\\AdminForm.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAL8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:55.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "PIU_Project_With_Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:53.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCar.cs",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\UpdateCar.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\UpdateCar.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\UpdateCar.cs",
+              "RelativeToolTip": "PIU_Project_With_Forms\\UpdateCar.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:38.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateCar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\UpdateCar.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\UpdateCar.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\UpdateCar.cs [Design]",
+              "RelativeToolTip": "PIU_Project_With_Forms\\UpdateCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:08:36.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteAtIndex.cs",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\DeleteAtIndex.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\DeleteAtIndex.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\DeleteAtIndex.cs",
+              "RelativeToolTip": "PIU_Project_With_Forms\\DeleteAtIndex.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:07:13.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuyVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\BuyVehicle.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\BuyVehicle.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\BuyVehicle.cs [Design]",
+              "RelativeToolTip": "PIU_Project_With_Forms\\BuyVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:07:04.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteAtIndex.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\DeleteAtIndex.cs",
+              "RelativeDocumentMoniker": "PIU_Project_With_Forms\\DeleteAtIndex.cs",
+              "ToolTip": "C:\\Users\\n0_es\\OneDrive\\Desktop\\Projects\\C#\\PIU_Project_With_Forms\\PIU_Project_With_Forms\\DeleteAtIndex.cs [Design]",
+              "RelativeToolTip": "PIU_Project_With_Forms\\DeleteAtIndex.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:06:59.42Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
